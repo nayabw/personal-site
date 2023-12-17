@@ -2,5 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/": "pages/index.js",
+  "/career": "pages/career.js",
+  "/projects/KANMWebsite": "pages/projects/KANMWebsite.js",
+  "/projects/list": "pages/projects/list.js"
 }
